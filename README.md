@@ -9,7 +9,7 @@
 ### Pré-requisitos para rodar os comandos:
 * Conta no github logada no navegador.
 * git instalado.
-* gh instalado.
+* gh instalado (GitHub CLI).
 
 ## Comandos realizados: 
 
