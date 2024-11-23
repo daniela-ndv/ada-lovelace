@@ -9,7 +9,7 @@
 ### Pré-requisitos para rodar os comandos:
 * Conta no github logada no navegador.
 * git instalado.
-* gh instalado (GitHub CLI).
+* gh instalado (GitHub CLI) (Para criar um novo repositório a partir do diretório atual).
 
 ## Comandos realizados: 
 
@@ -39,4 +39,4 @@
     git checkout -b branchEstudanteA
     // Criar e alternar para a branch
 
-#### 
+ 
