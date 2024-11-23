@@ -9,7 +9,7 @@
 ### Pré-requisitos para rodar os comandos:
 * Conta no github logada no navegador.
 * git instalado.
-* gh instalado.
+* gh instalado (GitHub CLI) (Para criar um novo repositório a partir do diretório atual).
 
 ## Comandos realizados: 
 
@@ -39,6 +39,7 @@
     git checkout -b branchEstudanteA
     // Criar e alternar para a branch
 
+ 
 #### Para clonar um repositŕio:
     git clone https://github.com/daniela-ndv/ada-lovelace.git
     // Usado para clonar um repositório existente na máquina local
