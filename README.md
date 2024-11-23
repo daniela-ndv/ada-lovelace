@@ -42,3 +42,13 @@
 #### Para clonar um repositŕio:
     git clone https://github.com/daniela-ndv/ada-lovelace.git
     // Usado para clonar um repositório existente na máquina local
+
+#### Para mergear as branches:
+    git checkout main
+    // Alterando para main 
+    
+    git merge EsudanteB
+    // Fazer um merge da branch para a main
+
+    git push
+    // Envia as alterações
